@@ -39,9 +39,10 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
  - [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable
 Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](https://github.com/wtjiang98/PSGAN)
  - [Beautyglow : On-demand makeup transfer framework with reversible generative network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_BeautyGlow_On-Demand_Makeup_Transfer_Framework_With_Reversible_Generative_Network_CVPR_2019_paper.pdf), [code](https://github.com/BeautyGlow/BeautyGlow.github.io/tree/master/source%20code), [demo](https://beautyglow.github.io/)
+ - [LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup](https://arxiv.org/abs/1904.11272) ICCV 2019, [code](https://github.com/wangguanzhi/LADN)
  - [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.pdf) CVPR 2018
  - [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
-](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf)
+](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf) ACM MM'18
  - [Digital Face Makeup by Example](https://www.comp.nus.edu.sg/~tsim/documents/face_makeup_cvpr09_lowres.pdf) CVPR 2009
 
 ### Websites
