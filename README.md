@@ -25,6 +25,7 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
   - [Creating Capsule Wardrobes from Fashion Images](https://arxiv.org/abs/1712.02662), CVPR 2018 (spotlight)
   - [Learning Fashion Compatibility with Bidirectional LSTMs](https://arxiv.org/abs/1707.05691) ACM MM'17, [code](https://github.com/xthan/polyvore)
   - [Learning Type-Aware Embeddings for Fashion Compatibility](https://arxiv.org/abs/1803.09196) ECCV 2018
+  - [Learning Attribute Representations with Localization for Flexible Fashion Search](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Ak_Learning_Attribute_Representations_CVPR_2018_paper.pdf) CVPR 2018
   - [Learning the Latent "Look": Unsupervised Discovery of a Style-Coherent Embedding from Fashion Images](https://arxiv.org/abs/1707.03376) ICCV 2017, [project page](http://vision.cs.utexas.edu/projects/StyleEmbedding/), [code](https://github.com/wlhsiao/Mallet)
   - [Automatic Spatially-aware Fashion Concept Discovery](http://users.umiacs.umd.edu/~xintong/publications/automatic-fashion-concept-final.pdf) ICCV 2017, [data](https://github.com/xthan/fashion-200k/)
 
