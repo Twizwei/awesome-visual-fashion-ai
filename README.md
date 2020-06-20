@@ -35,11 +35,14 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
   - [ClothFlow: A Flow-Based Model for Clothed Person Generation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) ICCV 2019
   - [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/abs/1710.07346) ICCV 2017, [project page](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/), [code and data](https://github.com/zhusz/ICCV17-fashionGAN)
 
-#### Makeups
+#### Makeups/Faces
  - [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable
 Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](https://github.com/wtjiang98/PSGAN)
- - [PairedCycleGAN: Asymmetric Style Transfer
-for Applying and Removing Makeup](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.pdf) CVPR 2018
+ - [Beautyglow : On-demand makeup transfer framework with reversible generative network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_BeautyGlow_On-Demand_Makeup_Transfer_Framework_With_Reversible_Generative_Network_CVPR_2019_paper.pdf), [code](https://github.com/BeautyGlow/BeautyGlow.github.io/tree/master/source%20code), [demo](https://beautyglow.github.io/)
+ - [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.pdf) CVPR 2018
+ - [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
+](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf)
+ - [Digital Face Makeup by Example](https://www.comp.nus.edu.sg/~tsim/documents/face_makeup_cvpr09_lowres.pdf) CVPR 2009
 
 ### Websites
 
@@ -50,14 +53,16 @@ for Applying and Removing Makeup](http://openaccess.thecvf.com/content_cvpr_2018
 
 * ICCV/ECCV/CVPR Workshop on Computer Vision for Fashion, Art and Design, CVPR [2020](https://sites.google.com/view/cvcreative2020/home?authuser=0), ICCV [2019](https://sites.google.com/view/cvcreative), ECCV [2018](https://sites.google.com/view/eccvfashion/), ICCV [2017](https://sites.google.com/zalando.de/cvf-iccv2017/home?authuser=0)
 
-### Datasets
+### Datasets/Toolbox
 
 * [DeepFashion2](https://github.com/switchablenorms/DeepFashion2), [challenge](https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge?authuser=0), [paper](https://arxiv.org/abs/1901.07973)
 * [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html), [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
 * [FashionIQ](https://github.com/XiaoxiaoGuo/fashion-iq), [challenge](https://sites.google.com/view/cvcreative2020/fashion-iq?authuser=0), [paper](https://arxiv.org/abs/1905.12794)
 * [GeoStyle](https://geostyle.cs.cornell.edu/), [paper](https://geostyle.cs.cornell.edu/static/pdf/geostyle.pdf), [code](https://github.com/kavitabala/geostyle)
 * [Polyvore Dataset](https://github.com/xthan/polyvore-dataset)
+* [MMFashion](https://github.com/open-mmlab/mmfashion)
 
 ### Miscellaneous
+* [Face Parsing](https://github.com/zllrunning/face-parsing.PyTorch)
 
 
