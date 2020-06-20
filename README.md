@@ -32,6 +32,7 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
   
 #### Try-ons/Synthesis
   - [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261) ICCV 2019, [project page](http://vision.cs.utexas.edu/projects/FashionPlus/)
+  - [M2E-Try On Net: Fashion from Model to Everyone](https://arxiv.org/pdf/1811.08599.pdf) ACM MM'19
   - [VITON: An Image-based Virtual Try-on Network](https://arxiv.org/abs/1711.08447) CVPR 2018, [code](https://github.com/xthan/VITON)
   - [ClothFlow: A Flow-Based Model for Clothed Person Generation](http://openaccess.thecvf.com/content_ICCV_2019/papers/Han_ClothFlow_A_Flow-Based_Model_for_Clothed_Person_Generation_ICCV_2019_paper.pdf) ICCV 2019
   - [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/abs/1710.07346) ICCV 2017, [project page](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/), [code and data](https://github.com/zhusz/ICCV17-fashionGAN)
