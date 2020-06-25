@@ -31,6 +31,9 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
 
   
 #### Try-ons/Synthesis
+  - [Fashion Editing with Adversarial Parsing Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Fashion_Editing_With_Adversarial_Parsing_Learning_CVPR_2020_paper.pdf) CVPR 2020 
+  - [Image Based Virtual Try-on Network from Unpaired Data](http://openaccess.thecvf.com/content_CVPR_2020/papers/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.pdf) CVPR 2020
+  - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content](https://arxiv.org/abs/2003.05863), [code](https://github.com/switchablenorms/DeepFashion_Try_On)
   - [Fashion++: Minimal Edits for Outfit Improvement](https://arxiv.org/abs/1904.09261) ICCV 2019, [project page](http://vision.cs.utexas.edu/projects/FashionPlus/)
   - [M2E-Try On Net: Fashion from Model to Everyone](https://arxiv.org/pdf/1811.08599.pdf) ACM MM'19
   - [VITON: An Image-based Virtual Try-on Network](https://arxiv.org/abs/1711.08447) CVPR 2018, [code](https://github.com/xthan/VITON)
