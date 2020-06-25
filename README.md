@@ -48,6 +48,11 @@ Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](http
  - [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.pdf) CVPR 2018
  - [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
 ](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf) ACM MM'18, [code](https://github.com/wtjiang98/BeautyGAN_pytorch)
+ - [Anti-Makeup: Learning A Bi-Level Adversarial Network for Makeup-Invariant Face Verification](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16739) AAAI 18
+ - [Examples-Rules Guided Deep Neural Network for Makeup Recommendation](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14773) AAAI 17
+ - [Makeup like a superstar: Deep Localized Makeup Transfer Network](https://arxiv.org/abs/1604.07102), IJCAI 2016
+ - [Simulating Makeup through Physics-based Manipulation of Intrinsic Image Layers](http://openaccess.thecvf.com/content_cvpr_2015/papers/Li_Simulating_Makeup_Through_2015_CVPR_paper.pdf) CVPR 2015
+ - ["Wow! you are so beautiful today!"](https://dl.acm.org/doi/10.1145/2502081.2502126) ACM MM'13
  - [Digital Face Makeup by Example](https://www.comp.nus.edu.sg/~tsim/documents/face_makeup_cvpr09_lowres.pdf) CVPR 2009
 
 ### Websites
