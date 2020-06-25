@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https://github.com/ayushidalmia/awesome-fashion-ai) and [Tzu-Heng Lin](https://github.com/lzhbrian/Cool-Fashion-Papers). Note that the areas might be overlapped.
+A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https://github.com/ayushidalmia/awesome-fashion-ai) and [Tzu-Heng Lin](https://github.com/lzhbrian/Cool-Fashion-Papers). Note that the research areas below might be overlapped.
 
 ## Contents
 
