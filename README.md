@@ -47,7 +47,7 @@ Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](http
  - [LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup](https://arxiv.org/abs/1904.11272) ICCV 2019, [code](https://github.com/wangguanzhi/LADN)
  - [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.pdf) CVPR 2018
  - [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
-](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf) ACM MM'18
+](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf) ACM MM'18, [code](https://github.com/wtjiang98/BeautyGAN_pytorch)
  - [Digital Face Makeup by Example](https://www.comp.nus.edu.sg/~tsim/documents/face_makeup_cvpr09_lowres.pdf) CVPR 2009
 
 ### Websites
