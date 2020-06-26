@@ -45,6 +45,9 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
 Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](https://github.com/wtjiang98/PSGAN)
  - [Beautyglow : On-demand makeup transfer framework with reversible generative network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_BeautyGlow_On-Demand_Makeup_Transfer_Framework_With_Reversible_Generative_Network_CVPR_2019_paper.pdf), [code](https://github.com/BeautyGlow/BeautyGlow.github.io/tree/master/source%20code), [demo](https://beautyglow.github.io/)
  - [LADN: Local Adversarial Disentangling Network for Facial Makeup and De-Makeup](https://arxiv.org/abs/1904.11272) ICCV 2019, [code](https://github.com/wangguanzhi/LADN)
+ - [Beholder-Gan: Generation and Beautification of Facial Images with Conditioning on Their Beauty Level](https://ieeexplore.ieee.org/abstract/document/8803807?casa_token=O7fSylZrOSIAAAAA:g_9xCCNceTSSYQ0oD9X6u003mrdWUTqxyN1lR9XE2XlMfqKCEv2Y-zdh8xnysfta6MIxwl5C0WQ) ICIP 2019, [code](https://github.com/beholdergan/Beholder-GAN)
+ - [Semi-supervised Eye Makeup Transfer by Swapping Learned Representation](http://openaccess.thecvf.com/content_ICCVW_2019/papers/LCI/Zhu_Semi-Supervised_Eye_Makeup_Transfer_by_Swapping_Learned_Representation_ICCVW_2019_paper.pdf) ICCV 2019 Workshop
+ - [Disentangled Makeup Transfer with Generative Adversarial Network](https://arxiv.org/abs/1907.01144), [code](https://github.com/Honlan/DMT)
  - [PairedCycleGAN: Asymmetric Style Transfer for Applying and Removing Makeup](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chang_PairedCycleGAN_Asymmetric_Style_CVPR_2018_paper.pdf) CVPR 2018
  - [BeautyGAN: Instance-level Facial Makeup Transfer with Deep Generative Adversarial Network
 ](http://liusi-group.com/pdf/BeautyGAN-camera-ready_2.pdf) ACM MM'18, [code](https://github.com/wtjiang98/BeautyGAN_pytorch)
