@@ -69,6 +69,8 @@ Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](http
 
 ### Datasets/Toolbox
 
+* [Deep Fashion3D](https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/), [paper](https://arxiv.org/pdf/2003.12753v1.pdf)
+* [Fashionpedia](https://fashionpedia.github.io/home/), [paper](https://arxiv.org/abs/2004.12276)
 * [DeepFashion2](https://github.com/switchablenorms/DeepFashion2), [challenge](https://sites.google.com/view/cvcreative2020/program/deepfashion2-challenge?authuser=0), [paper](https://arxiv.org/abs/1901.07973)
 * [DeepFashion](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html), [paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Liu_DeepFashion_Powering_Robust_CVPR_2016_paper.pdf)
 * [FashionIQ](https://github.com/XiaoxiaoGuo/fashion-iq), [challenge](https://sites.google.com/view/cvcreative2020/fashion-iq?authuser=0), [paper](https://arxiv.org/abs/1905.12794)
