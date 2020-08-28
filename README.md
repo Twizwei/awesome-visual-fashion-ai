@@ -31,6 +31,7 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
 
   
 #### Try-ons/Synthesis
+  - [GAN-based Garment Generation Using Sewing Pattern Images](http://www.cs.umd.edu/~yushen/docs/ECCV2020.pdf), [project page](https://gamma.umd.edu/researchdirections/virtualtryon/garmentgeneration/), [code](https://github.com/YuShen0118/Garment_Generation), [data](https://drive.google.com/drive/folders/1GR9cut1Ip7T3R-nYnuWPJUSarX8MT_xY)
   - [Fashion Editing with Adversarial Parsing Learning](http://openaccess.thecvf.com/content_CVPR_2020/papers/Dong_Fashion_Editing_With_Adversarial_Parsing_Learning_CVPR_2020_paper.pdf) CVPR 2020 
   - [Image Based Virtual Try-on Network from Unpaired Data](http://openaccess.thecvf.com/content_CVPR_2020/papers/Neuberger_Image_Based_Virtual_Try-On_Network_From_Unpaired_Data_CVPR_2020_paper.pdf) CVPR 2020
   - [Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content](https://arxiv.org/abs/2003.05863) CVPR 2020, [code](https://github.com/switchablenorms/DeepFashion_Try_On)
@@ -80,5 +81,6 @@ Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](http
 
 ### Miscellaneous
 * [Face Parsing](https://github.com/zllrunning/face-parsing.PyTorch)
+* [Fashion Captioning: Towards Generating Accurate Descriptions with Semantic Rewards](), [code](https://github.com/xuewyang/Fashion_Captioning)
 
 
