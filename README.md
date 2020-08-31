@@ -42,6 +42,7 @@ A repo about visual fashion AI. This repo is inspired by [Ayushi Dalmia](https:/
   - [Be Your Own Prada: Fashion Synthesis with Structural Coherence](https://arxiv.org/abs/1710.07346) ICCV 2017, [project page](http://mmlab.ie.cuhk.edu.hk/projects/FashionGAN/), [code and data](https://github.com/zhusz/ICCV17-fashionGAN)
 
 #### Makeups/Faces
+ - [CA-GAN: Weakly Supervised Color Aware GAN for Controllable Makeup Transfer](https://arxiv.org/pdf/2008.10298.pdf), ECCV 2020 Workshop, [project page](https://robinkips.github.io/CA-GAN/)
  - [PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable
 Makeup Transfer](https://arxiv.org/abs/1909.06956) CVPR 2020 (oral), [code](https://github.com/wtjiang98/PSGAN)
  - [Beautyglow : On-demand makeup transfer framework with reversible generative network](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_BeautyGlow_On-Demand_Makeup_Transfer_Framework_With_Reversible_Generative_Network_CVPR_2019_paper.pdf), [code](https://github.com/BeautyGlow/BeautyGlow.github.io/tree/master/source%20code), [demo](https://beautyglow.github.io/)
